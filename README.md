@@ -3,4 +3,4 @@ Implementation related to the paper: Deep Keypoint Detection for The Aesthetic E
 
 
 ## Datasets (Porto, TSIO, and VIENNA): 
-To have access the datasets, please contact the first author of the paper. E-mail: wilsonjsilva@inesctec.pt
+To have access to the datasets, please contact the first author of the paper. E-mail: wilsonjsilva@inesctec.pt
