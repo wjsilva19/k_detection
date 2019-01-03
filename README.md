@@ -16,6 +16,7 @@ To run the scripts, you need to have installed:
 Pre-processing steps:
 
 1. Convert images and keypoints to the same size
+2. Generation of the heatmaps
 
 ## Citation
 If you use this repository, please cite this paper:
