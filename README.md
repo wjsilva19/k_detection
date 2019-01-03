@@ -20,7 +20,7 @@ Pre-processing steps:
 
 Training: 
 
-1. Image Data Generator for Data Augmentation 
+1. Image Data Generator for Data Augmentation (train_generator.py)
 2. Main File 
 
 ## Citation
