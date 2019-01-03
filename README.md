@@ -4,10 +4,10 @@ Implementation related to the paper: Deep Keypoint Detection for The Aesthetic E
 ## Installation 
 To run the scripts, you need to have installed: 
 * Python 3.5.2 
-* Tensorflow 
-* Keras 
-* Skimage 
-* OpenCV
+* Tensorflow 1.2.0
+* Keras 2.0.8
+* Skimage 0.13.1
+* OpenCV 3.4.0
 
 ## Instructions 
 
