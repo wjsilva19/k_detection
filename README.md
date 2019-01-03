@@ -11,7 +11,9 @@ To run the scripts, you need to have installed:
 
 ## Instructions 
 
-### Deep Model: 
+### Deep Model
+
+Pre-processing steps: 
 
 ## Citation
 If you use this repository, please cite this paper:
