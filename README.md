@@ -3,7 +3,7 @@ Implementation related to the paper: Deep Keypoint Detection for The Aesthetic E
 
 ## Installation 
 To run the scripts, you need to have installed: 
-* Python 3.6.7 
+* Python 3.5.2 
 * Tensorflow 
 * Keras 
 * Skimage 
