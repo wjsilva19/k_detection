@@ -13,8 +13,9 @@ To run the scripts, you need to have installed:
 
 ### Deep Model
 
-Pre-processing steps: 
-1. 
+Pre-processing steps:
+
+1. Convert images and keypoints to the same size
 
 ## Citation
 If you use this repository, please cite this paper:
