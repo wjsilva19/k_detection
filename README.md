@@ -18,6 +18,11 @@ Pre-processing steps:
 1. Convert images and keypoints to the same size
 2. Generation of the heatmaps
 
+Training: 
+
+1. Image Data Generator for Data Augmentation 
+2. Main File 
+
 ## Citation
 If you use this repository, please cite this paper:
 
