@@ -23,6 +23,10 @@ Training:
 1. Image Data Generator for Data Augmentation - train_generator.py
 2. Main File - train_cv.py
 
+Scoring: 
+
+1. Computing the scores - scoring.py
+
 ## Citation
 If you use this repository, please cite this paper:
 
