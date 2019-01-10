@@ -25,7 +25,7 @@ Training:
 
 Scoring: 
 
-1. Computing the scores - scoring.py
+1. Computing the scores - scoring_function.py
 
 ## Citation
 If you use this repository, please cite this paper:
