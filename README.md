@@ -16,7 +16,7 @@ To run the scripts, you need to have installed:
 Pre-processing steps:
 
 1. Convert images and keypoints to the same size
-2. Generation of the heatmaps
+2. Generation of the heatmaps - prob_maps_generation.py
 
 Training: 
 
