@@ -183,7 +183,6 @@ for train_indices, test_indices in skf.split(X_train_processed):
     """Perform regression"""
     stage4 = feature_extraction(stage4_in)
     
-    """Optimizing last block of VGG and fixing the previous weights"""
     conv_base.trainable=True 
     
     set_trainable = False
@@ -200,7 +199,6 @@ for train_indices, test_indices in skf.split(X_train_processed):
     """Model has one input: image; and two outputs: probability maps and keypoints"""
     model = Model(inputs=[inputs], outputs=[stage1, stage2, stage3, stage4])
 
-    """Assigning the same weight for both tasks"""
     model.compile(optimizer='adadelta', loss = [losses.mean_squared_error, losses.mean_squared_error, \
                                             losses.mean_squared_error, losses.mean_squared_error], \
     loss_weights= [1, 2, 4, 10])
